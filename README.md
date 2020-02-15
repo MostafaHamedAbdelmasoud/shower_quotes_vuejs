@@ -3,7 +3,7 @@ it's a website which show some shower thoughts from reddit.com through api
 
 ## vue-showerthoughts
 
-##Project setup
+## Project setup
 ```bash
 npm install
 ```
